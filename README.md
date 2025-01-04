@@ -1,2 +1,2 @@
 
-Change on conflict branch
+Change on conflict branch and main branch
